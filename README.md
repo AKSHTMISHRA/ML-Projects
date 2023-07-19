@@ -7,5 +7,5 @@
     be found in the Jupyter notebook provided in this repository. </pre><br>
 2nd House Price Prediction 
 <br><pre>
-    Ongoing Development" 
+    Ongoing Development 
 </pre>
